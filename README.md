@@ -1,3 +1,1 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ggharada&count_private=true&show_icons=true?theme=transparent" />
-</a>
+![ggharada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggharada&theme=transparent&show_icons=true&count_private=true)
